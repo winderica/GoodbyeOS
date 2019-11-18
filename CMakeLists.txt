@@ -4,4 +4,4 @@ project(GoodbyeOS)
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -lpthread")
 
-add_executable(GoodbyeOS 3/main.cpp)
+add_executable(GoodbyeOS 4/main.cpp)
